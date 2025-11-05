@@ -8,7 +8,6 @@ Este repositorio contiene los wireframes, prototipos y documentación del diseñ
 ## Componentes
 - Wireframes 
 - Prototipos de alta fidelidad
-- Exportables en PNG y PDF
 - Registro de cambios
 
 ## Enlaces Figma
